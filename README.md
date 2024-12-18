@@ -167,7 +167,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - Create an issue in the GitHub repository
 - Email: hi@frederickdineen.com
-- Documentation: [Wiki](https://github.com/donwolfonline/nemesis/wiki)
+- Documentation: [Wiki]([https://github.com/donwolfonline/nemesis/wiki](https://github.com/donwolfonline/nemesis/blob/main/docs/WIKI.md))
 
 ## 🙏 Acknowledgments
 
